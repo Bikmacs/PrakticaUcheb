@@ -1,0 +1,5 @@
+com.bignerdranch.android.application_practica2.test.app-core-1.6.0-0 C:\Users\Bikmacs\.gradle\caches\transforms-3\e358906f2fb46d7d05914d9c98bd2f04\transformed\core-1.6.0\res
+com.bignerdranch.android.application_practica2.test.app-androidTest-1 C:\Users\Bikmacs\Desktop\application_practica2\app\build\generated\res\resValues\androidTest\debug
+com.bignerdranch.android.application_practica2.test.app-mergeDebugAndroidTestResources-2 C:\Users\Bikmacs\Desktop\application_practica2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bignerdranch.android.application_practica2.test.app-mergeDebugAndroidTestResources-3 C:\Users\Bikmacs\Desktop\application_practica2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bignerdranch.android.application_practica2.test.app-merged_res-4 C:\Users\Bikmacs\Desktop\application_practica2\app\build\intermediates\merged_res\debugAndroidTest

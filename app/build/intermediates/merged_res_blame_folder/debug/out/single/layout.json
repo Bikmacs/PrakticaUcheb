@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/fragment_products.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/fragment_movie.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_movie.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/product_item.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/fragment_movie_web.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_movie_web.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/movie_item.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_home.xml"
+    }
+]

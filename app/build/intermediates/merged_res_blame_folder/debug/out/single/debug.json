@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/navigation_mobile_navigation.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_bottom.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/bottom.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_image.jpg.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/image.jpg"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/xml_file_paths.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/xml_backup_rules.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_fragment_movie_web.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_movie_web.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_fragment_products.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_product_item.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_fragment_movie.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_movie.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_movie_item.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_products_black_24dp.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_products_black_24dp.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/layout_fragment_home.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/drawable_ic_movie_black_24px.xml.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/drawable/ic_movie_black_24px.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.application_practica2.app-merged_res-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.application_practica2.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
